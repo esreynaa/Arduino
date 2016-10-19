@@ -1,0 +1,151 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/en_US/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Scanning /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/en_US/ and sub-directories
+
+Loading from root path: /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/
+Scanning for the following file types: *.bundle, *.plugin, *.prmp, *.vst
+
+Scanning /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ and sub-directories
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/AEFilterCrop.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/AEFilterGaussianBlur.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ExporterMP3.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ExporterMPEG4.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ExporterMPEGPreview.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterAIEPS.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterAiff.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterARRIRAW.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterASND.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterBarsAndTone.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterDPX.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterFastMPEG.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterFLV.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterJPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterMP3.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterMPEG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterP2.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterPhotoshopProxy.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterPNG.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterRED.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterTarga.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterTiff.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterWave.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterXDCAMEX.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterXDCAMHD.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/Motion.bundle
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading /Applications/Adobe Media Encoder CS6/Adobe Media Encoder CS6.app/Contents/Plug-ins/Common/ImporterQuickTime.bundle
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
